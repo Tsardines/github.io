@@ -40,7 +40,7 @@ template {
 a {
   background-color: transparent;
   color: black;
-  margin-right: 1em;
+  padding-right: 1em;
   -webkit-text-decoration-skip: objects;
 }
 a:active,
