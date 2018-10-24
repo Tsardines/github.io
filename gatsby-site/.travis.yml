@@ -7,7 +7,7 @@ notifications:
     recipients:
       - tsardines342@gmail.com
     on_success: always
-    on_failure: always
+    on_failure: never
 node_js:
   - '9'
 git:
